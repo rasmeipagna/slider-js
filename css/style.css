@@ -1,18 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;300&display=swap');
+
+
+
+h1{
+	text-align: center;
+	font-family: 'Roboto Mono', monospace;
+}
+p{
+	font-family: 'Roboto Mono', monospace;	
+	text-align:center;
+}
+a{
+	padding:10px;
+	font-family: 'Roboto Mono', monospace;
+	background-color:#fff;
+	color:black;
+}
+a:hover{
+	background-color:black;
+	color:#fff;
+	transition:0.3s;
+}
 .img-center{
 	width:600px;
 	margin:auto;
 }
 img{
 	width: 100%;
-	margin:auto;
+	margin: 0 auto;
 }
 
 #numPhoto {
 	text-align: center;
+	font-family: 'Roboto Mono', monospace;
 }
-
+.button-center{
+	width:100%;
+	margin : 0 auto;
+}
 button {
+	border : 1px solid black;
 	display:inline-block;
-	
+	font-family: 'Roboto Mono', monospace;
+		background-color:#fff;
+	color:black;
 
+}
+button:hover {
+	border : 1px solid black;
+	display:inline-block;
+	font-family: 'Roboto Mono', monospace;
+	background-color:black;
+	color:#fff;
+	transition:0.3s;
 }
