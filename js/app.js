@@ -15,12 +15,12 @@ var tabImg = [
 
 
 // var tabImgEvolve = [
-// 	{nom:"img/1.jpg",legend:"Melbourne", alt="melbourne"},
-// 	{nom:"img/2.jpg",legend:"Chicago", alt="chicago"},
-// 	{nom:"img/3.jpg",legend:"Chalmers", alt="chalmers"},
-// 	{nom:"img/4.jpg",legend:"Shangai", alt="shangai"},
-// 	{nom:"img/5.jpg",legend:"Hong Kong", alt="hong kong"},
-// 	{nom:"img/6.jpg",legend:"Paris", alt="paris"}
+// 	{nom:"img/1.jpg",legend:"One", alt="One"},
+// 	{nom:"img/2.jpg",legend:"Two", alt="Two"},
+// 	{nom:"img/3.jpg",legend:"Three", alt="Three"},
+// 	{nom:"img/4.jpg",legend:"Four", alt="Four"},
+// 	{nom:"img/5.jpg",legend:"Five", alt="Five"},
+// 	{nom:"img/6.jpg",legend:"Six", alt="Six"}
 // ];
 
 // tabImgEvolve[0].nom;
